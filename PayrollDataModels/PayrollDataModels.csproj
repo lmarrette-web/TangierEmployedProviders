@@ -51,10 +51,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\ContextTangierEmployedProviders.cs" />
     <Compile Include="Models\EmployeeAdditionalJob.cs" />
     <Compile Include="Models\EmployeeCommittment.cs" />
     <Compile Include="Models\EmployeeMaster.cs" />
     <Compile Include="Models\GlobalIdMap.cs" />
+    <Compile Include="Models\ProcessedPayroll.cs" />
     <Compile Include="Models\SalesForceData.cs" />
     <Compile Include="Models\StateTaxLegend.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
